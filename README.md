@@ -18,7 +18,8 @@ The goal was to integrate raw advertising data, transform it using SQL, and buil
 
 
 
-!\[Dashboard Screenshot](images/dashboard\_overview.png)
+!<img width="818" height="461" alt="dashboard_overview" src="https://github.com/user-attachments/assets/c3b839e1-fac2-4a68-89df-2f2658e85416" />
+
 
 
 
@@ -199,4 +200,5 @@ Ajay Aryan
 
 
 This project is for portfolio and educational purposes only.
+
 
